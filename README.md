@@ -1,4 +1,4 @@
 - 👋 Hi, I’m ABHISHEK KUMAR PANDEY
 - 👀With keen interest in competitive coding in python and c++ programming language.
 - 🌱 I’m currently working as a software developer-1 in Entrayn education technology where I am using django and python in backend.
-- I love solving data structures problems and devleoping softwares.
+- I love solving data structures problems and developing softwares.
