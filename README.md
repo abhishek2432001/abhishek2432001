@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working in [Draup Business Solution](https://draup.com/)
 
-- 🌱 I’m currently learning to develop **Sp**
 
 - 👯 I’m looking to collaborate on **developing clean, maintainable, and performance-optimized solutions that scale with business needs.**
 
